@@ -1,0 +1,18 @@
+.card {
+	border-radius: 15px;
+	border: 1px solid;
+	margin-bottom: 40px;
+}
+.card .img-responsive {
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+.card-body {
+	padding: 15px;
+}
+.mapa {
+	background-color: gray;
+	height: 400px;
+	width: 100%;
+}
+
